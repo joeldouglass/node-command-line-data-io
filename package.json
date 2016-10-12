@@ -1,0 +1,26 @@
+{
+  "name": "node-command-line-data-io",
+  "version": "1.0.0",
+  "description": "Boilerplate data flow manager for command line node scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeldouglass/node-command-line-data-io.git"
+  },
+  "keywords": [
+    "command",
+    "data",
+    "pipe",
+    "stream"
+  ],
+  "author": "Joel Douglass (joel14@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joeldouglass/node-command-line-data-io/issues"
+  },
+  "homepage": "https://github.com/joeldouglass/node-command-line-data-io#readme",
+  "dependencies": { }
+}
